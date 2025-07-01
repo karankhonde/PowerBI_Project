@@ -1,54 +1,80 @@
 📊 Mobile Sales Dashboard (Power BI)
-This project presents an interactive sales dashboard developed in Power BI to analyze mobile phone sales performance, product trends, and revenue distribution across various cities.
+Welcome to my Mobile Sales Dashboard Project, created using Power BI and Excel. This dashboard provides a comprehensive overview of mobile phone sales performance, helping businesses track revenue, product trends, and growth across different cities and time periods.
 
-The dashboard provides visual insights into:
+The goal of this project was to turn raw sales data into actionable insights using interactive, visually appealing reports.
 
-✅ Total Sales and Quantity Sold
-✅ Sales Breakdown by City and Mobile Model
-✅ Transaction Volume and Average Pricing
-✅ Product Performance Comparison
-✅ Time-Based Sales Trends (Month, Day, Year)
-✅ Sales Distribution by Payment Method and Ratings
-✅ Comparative reports for current year sales vs. the same period last year
-✅ Month-to-Date (MTD) Sales Tracking
+🚀 Project Overview
+This dashboard analyzes mobile sales by focusing on key metrics such as:
 
-🔧 Tools & Technologies
-Power BI for dashboard creation and data visualization
+✔ Total Sales and Quantity Sold
+✔ Revenue Distribution by City
+✔ Product Performance by Mobile Model and Brand
+✔ Transactions Volume and Average Selling Price
+✔ Payment Method Analysis and Customer Ratings
+✔ Sales Trends over Time (Monthly, Yearly)
+✔ Growth Comparison with the Same Period Last Year
+✔ Month-to-Date (MTD) Sales Performance
 
-Microsoft Excel as the primary data source
+All reports are fully interactive, allowing stakeholders to filter and drill down into the data to get specific insights.
 
-📈 Key Features
-Dynamic filters for Mobile Model, Payment Method, and Time Period
+🛠 Tools & Technologies Used
+Power BI — Data Visualization and Dashboard Development
 
-Drill-down charts, slicers, and interactive visuals
+Microsoft Excel — Source Data Preparation
 
-Geo-mapping of sales by city
+📂 Key Project Components
+Mobile Sales Data.xlsx — Cleaned sales dataset used for analysis
 
-Performance comparison reports to track growth and trends
+Mobile Sales Dashboard.pbix — Power BI file containing the dashboard
 
-Clean, business-focused layout for decision-making support
+Screenshot Previews of the Dashboard
 
-🗂 Project Files
-Mobile Sales Data.xlsx — Raw sales dataset
+💡 Key Features
+Interactive filters for Mobile Model, Payment Method, Brand, and Time Period
 
-Mobile Sales Dashboard.pbix — Power BI dashboard file
+Geo-mapping of sales by city across India
 
-Screenshots of the dashboard preview
+Sales trends comparison for current year vs. the same period last year
 
-🎯 Insights Generated
-This project helps answer key business questions such as:
+MTD Report showing Month-to-Date sales progress
 
-Which mobile models and brands generate the highest sales?
+Product-wise performance tracking with revenue and transaction breakdowns
 
-How do sales vary across cities and time periods?
+Insights into payment method preferences and customer rating distributions
 
-How does current performance compare to the same period last year?
+🎯 Business Questions Answered
+Which mobile models and brands are driving the most revenue?
 
-What is the distribution of transactions by payment method and customer ratings?
+How are sales distributed across different cities?
 
-🚀 Future Improvements
-Connect live data sources for real-time reporting
+What are the monthly sales trends and peak periods?
 
-Add deeper customer segmentation analysis
+How does performance compare to the same period last year?
 
-Introduce automated refresh schedules
+What is the contribution of each payment method?
+
+How do customer ratings vary by product?
+
+📈 Insights for Decision-Making
+This dashboard helps businesses:
+
+✅ Identify top-performing products and regions
+✅ Monitor sales growth over time
+✅ Understand customer preferences and payment behavior
+✅ Track product ratings to enhance customer satisfaction
+
+🔧 Future Enhancements
+Connect to live data sources for real-time reporting
+
+Expand customer segmentation for deeper insights
+
+Automate scheduled data refreshes
+
+Include advanced KPIs for profitability tracking
+
+👀 Dashboard Preview
+![Dashboard Preview](https://github.com/user-attachments/assets/7a0b2528-7040-4199-bead-d2ea751d653b)
+
+🤝 Let's Connect
+For feedback or collaboration opportunities, feel free to connect via LinkedIn.
+
