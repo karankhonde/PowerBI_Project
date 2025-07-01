@@ -74,6 +74,10 @@ Include advanced KPIs for profitability tracking
 
 👀 Dashboard Preview
 ![Dashboard Preview](https://github.com/user-attachments/assets/7a0b2528-7040-4199-bead-d2ea751d653b)
+![MTD Report](https://github.com/user-attachments/assets/2e080f8a-e389-461f-8a89-494239af9eb3)
+![Same Period Last Year report](https://github.com/user-attachments/assets/6e161a86-9957-4099-a28b-01236a31a5ca)
+
+
 
 🤝 Let's Connect
 For feedback or collaboration opportunities, feel free to connect via LinkedIn.
